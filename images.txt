@@ -1,6 +1,6 @@
 #minio/minio
-#
-mysql
+tomcat
+#mysql
 #jdk
 #nacos
 #nginx
