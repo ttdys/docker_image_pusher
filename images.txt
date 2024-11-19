@@ -1,7 +1,7 @@
 #minio/minio
 #
 mysql
-jdk
+#jdk
 #nacos
 #nginx
 #支持私库
