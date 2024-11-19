@@ -1,6 +1,6 @@
 #minio/minio
 #
-#mysql
+mysql
 jdk
 #nacos
 #nginx
